@@ -1,6 +1,5 @@
 ## Завдання 1. Створення та запуск першої програми (сорочки)
 Код:
-
 ```java
     public class Shirt {
     public int shirtID = 71;
@@ -20,5 +19,5 @@
 ```
 
 Результати:
-![Alt text](img/task1.1.png "First test")
-![Alt text](img/task1.2.png "Second test")
+![Alt text](img/task2.1.PNG "First test")
+![Alt text](img/task2.2.PNG "Second test")
