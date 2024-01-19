@@ -11,5 +11,5 @@
 ```
 
 Результати:
-![Alt text](img/task2.1.png "First test")
-![Alt text](img/task2.2.png "Second test")
+![Alt text](img/task2.1.PNG "First test")
+![Alt text](img/task2.2.PNG "Second test")
